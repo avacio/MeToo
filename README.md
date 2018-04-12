@@ -1,7 +1,7 @@
 # Me Too
 **2D platformer puzzle game for learning hən̓q̓əmin̓əm̓**<br/>
 <br/>
-In respect of Musqueam, the game remains in their ownership and will not be shared publicly online.<br/><br/>
+In respect of Musqueam, the game remains and will remain in their ownership, so it will not be shared publicly online.<br/><br/>
 Here are some screencaps of the assets without the language shown:<br/>
 The orthography has been censored where necessary.<br/>
 ![Imgur](https://i.imgur.com/nifkn4h.png)<br/>
