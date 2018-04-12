@@ -6,7 +6,7 @@ Here are some screencaps of the assets without the language shown:<br/>
 The orthography has been censored where necessary.<br/>
 ![Imgur](https://i.imgur.com/nifkn4h.png)<br/>
 ![Alt text](https://i.imgur.com/uKC9uIT.gif)<br/>
-![Imgur](https://i.imgur.com/Wi0DpDt.gif)<br/>
+![Imgur](https://i.imgur.com/HMFkEne.gif)<br/>
 ![imgur](https://i.imgur.com/7lkfn33.png)<br/>
 <br/>
 This is the main character, Neela!<br/>
